@@ -1,0 +1,2 @@
+m = 'Khushi'
+print(m)
